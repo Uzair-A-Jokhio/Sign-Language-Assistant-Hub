@@ -41,7 +41,7 @@ The Second Page provides two significant functionalities:
 # Hand Sign Prediction Python Backend
 This initiates the Python graphical user interface (GUI) to start predicting hand signs.
 <p align="center">
-  <img alt="Hand Sign Prediction" src="img/tst.jpg">
+  <img alt="Hand Sign Prediction" src="img/tst2.jpg">
 </p>
 
 # Requirements
