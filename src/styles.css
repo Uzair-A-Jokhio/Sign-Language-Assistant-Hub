@@ -1,0 +1,55 @@
+/* Overall layout style */
+.root {
+    -fx-background-color: #f0f0f0; /* Light gray background */
+}
+
+/* Title pane style */
+.AnchorPane {
+    -fx-background-color: #506550; /* Green background */
+    -fx-padding: 10;
+}
+
+/* Button style */
+.button {
+    -fx-background-color: #008CBA; /* Blue background */
+    -fx-text-fill: white; /* White text color */
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-padding: 8 16;
+    -fx-background-radius: 5;
+    -fx-border-radius: 5;
+}
+
+/* Hover effect for buttons */
+.button:hover {
+    -fx-background-color: #005A80; /* Darker blue on hover */
+}
+
+/* Exit button style */
+#exitButton {
+    -fx-background-color: #FF3D00; /* Red background for exit button */
+}
+
+/* Hover effect for exit button */
+#exitButton:hover {
+    -fx-background-color: #D32F2F; /* Darker red on hover */
+}
+
+/* Start button style */
+#startButton {
+    -fx-background-color: #4CAF50; /* Green background for start button */
+}
+
+/* Hover effect for start button */
+#startButton:hover {
+    -fx-background-color: #388E3C; /* Darker green on hover */
+}
+
+
+
+#loadingLabel {
+    -fx-text-fill: #333333; /* Text color */
+}
+
+#progressBar {
+}

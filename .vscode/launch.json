@@ -1,0 +1,51 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Server",
+            "request": "launch",
+            "mainClass": "Server",
+            "projectName": "SLASH_26b785f4"
+        },
+        {
+            "type": "java",
+            "name": "JavaServer",
+            "request": "launch",
+            "mainClass": "JavaServer",
+            "projectName": "SLASH_26b785f4"
+        },
+        {
+            "type": "java",
+            "name": "JavaSer",
+            "request": "launch",
+            "mainClass": "JavaSer",
+            "projectName": "SLASH_26b785f4"
+        },
+        {
+            "type": "java",
+            "name": "JavaClient",
+            "request": "launch",
+            "mainClass": "JavaClient",
+            "projectName": "SLASH_26b785f4"
+        },
+        {
+            "type": "java",
+            "name": "SignLanguageApp",
+            "request": "launch",
+            "mainClass": "SignLanguageApp",
+            "projectName": "SLASH_26b785f4"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "vmArgs": "--module-path C:/Users/uzair/JavaFX/javafx-sdk-21.0.1/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "App",
+            "projectName": "SLASH_26b785f4"
+        }
+    ]
+}
